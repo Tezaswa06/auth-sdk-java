@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 18 11:19:23 IST 2025
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1742276963367
-https\://repo.maven.apache.org/maven2/.lastUpdated=1742276963511
-https\://maven.uqbar.org/releases/.lastUpdated=1742276962143
-https\://oss.sonatype.org/content/repositories/snapshots/.error=
-https\://s01.oss.sonatype.org/content/repositories/releases/.error=Could not transfer artifact org.apache.logging.log4j\:log4j\:pom\:2.10.0 from/to custom-repo (https\://s01.oss.sonatype.org/content/repositories/releases/)\: Transfer failed for https\://s01.oss.sonatype.org/content/repositories/releases/org/apache/logging/log4j/log4j/2.10.0/log4j-2.10.0.pom
-@default-custom-repo-https\://s01.oss.sonatype.org/content/repositories/releases/.lastUpdated=1742276961144
-https\://maven.uqbar.org/releases/.error=
