@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 18 11:32:14 IST 2025
+spring-security-config-5.0.5.RELEASE.jar>custom-repo=
+spring-security-config-5.0.5.RELEASE.pom>custom-repo=
