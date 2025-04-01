@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 18 13:14:12 IST 2025
+spring-data-jpa-2.0.7.RELEASE.jar>custom-repo=
+spring-data-jpa-2.0.7.RELEASE.pom>custom-repo=

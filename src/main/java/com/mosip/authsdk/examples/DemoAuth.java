@@ -9,15 +9,14 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.http.ResponseEntity;
 
 import java.io.IOException;
-import java.util.Collections;
 import java.util.Map;
 
 
 public class DemoAuth {
     public static void main(String[] args) {
-        // Load Spring Context
+//      Load Spring Context
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
-        context.scan("com.mosip.authsdk");
+        context.scan("com.mosip.authsdk.*");
         context.refresh();
 
         try {

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 18 13:14:12 IST 2025
+springdoc-openapi-common-1.5.10.jar>custom-repo=
+springdoc-openapi-common-1.5.10.pom>custom-repo=
